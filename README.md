@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Rhythmic<br>👨🏻‍🤝‍👨🏻I'm currently looking to collaborate on UX Designing<br>🌱I'm currently learning React Native<br>
+🔭I'm currently working on Rhythmic<br>👨🏻‍🤝‍👨🏻I'm currently looking to collaborate on UX Designing<br>🌱I'm currently learning WebGL , Three JS<br>
 
 
 ## 🌐 Socials:
@@ -21,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=trushildhokiya&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
