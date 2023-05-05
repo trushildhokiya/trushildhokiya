@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Rhythmic<br>👨🏻‍🤝‍👨🏻I'm currently looking to collaborate on UX Designing<br>🌱I'm currently learning WebGL , Three JS<br>
+🔭I'm currently working on WEBGL<br>👨🏻‍🤝‍👨🏻I'm currently looking to collaborate on UX Designing<br>🌱I'm currently learning WebGL , Three JS<br>
 
 
 ## 🌐 Socials:
